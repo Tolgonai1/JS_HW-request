@@ -1,0 +1,14 @@
+
+["dress",{
+    "color": "red",
+    "price": 5000
+},
+  "sweater",{
+    "color": "white",
+    "price": 4500
+},
+  "shoes",{
+    "color": "black",
+    "price": 8000
+}
+]
